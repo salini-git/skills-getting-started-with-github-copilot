@@ -1,2 +1,6 @@
+# For FastAPI app and testing
+fastapi
+httpx
+pytest
 fastapi
 uvicorn
